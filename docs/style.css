@@ -1,0 +1,42 @@
+body {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png);
+  font-family: "Century Gothic";
+  font-weight: normal;
+background-attachment: scroll;
+}
+
+table {
+  border: 2.5px solid DodgerBlue;
+  font-size: 17.5px;
+  align-content: center;
+  width: 1400px;
+  margin: 0 auto;
+}
+
+th {
+  background-color: LightBlue;
+  text-align: center;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+td {
+  border-top: 1px solid DeepSkyBlue;
+  border-right: 1px solid DeepSkyBlue;
+}
+
+.code {
+  background-color: beige;
+  text-align:  center;
+  font-family: monospace;
+}
+
+.LearnMore {
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: DodgerBlue;
+  text-align: center;
+}
